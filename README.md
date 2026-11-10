@@ -23,6 +23,45 @@ I design and develop premium websites, interactive interfaces, and custom web ap
   <img src="https://skillicons.dev/icons?i=react,js,html,css,ts,vite" />
 </p>
 
+<br>
+
+<h2 align="center">✦ Featured Projects</h2>
+
+<h3 align="center">Coach Mohamed Mohsen</h3>
+
+<p align="center">
+  <b>Fitness Coaching Platform — UI/UX Concept</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/fatmamostafa132/coach-mohamed-mohsen-showcase/main/mohsen1.jpg"
+    alt="Coach Mohamed Mohsen Website"
+    width="90%"
+  />
+</p>
+
+<p align="center">
+  A modern fitness coaching platform concept
+  featuring bold visual design, responsive layouts,
+  and an engaging subscription-focused experience.
+</p>
+
+<p align="center">
+  <a href="https://mohamed-mohsen-tan.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Preview-8B3A62?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/fatmamostafa132/coach-mohamed-mohsen-showcase">
+    <img src="https://img.shields.io/badge/View_Case_Study-183B38?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Concept / Prototype · Client source code private</i>
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,figma" />
 </p>
