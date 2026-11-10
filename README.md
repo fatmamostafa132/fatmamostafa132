@@ -15,3 +15,20 @@ I design and develop premium websites, interactive interfaces, and custom web ap
 
 </div>
 
+<br>
+
+<h2 align="center">✦ My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,ts,vite" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,figma" />
+</p>
+
+<p align="center">
+  <i>Combining creativity, clean code, and thoughtful design.</i>
+</p>
+
+
