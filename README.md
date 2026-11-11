@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="Creative%20Code%20in%20Cairo%20Glow.png" width="100%" alt="Fatma El-Bosary Luxury Creative Banner" />
+</p>
+
+
 <div align="center">
 
 # Hi, I'm Fatma El-Bosary ✨
